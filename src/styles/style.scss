@@ -8,3 +8,18 @@ h1 {
 	text-align: center;
 	color: fuchsia;
 }
+
+img {
+   width: 100%;
+   display: block;
+}
+
+#app-container{
+	.thumbnail{
+		height: 500px;
+	}
+	.textRight{
+		text-align: right;
+	}
+
+}
